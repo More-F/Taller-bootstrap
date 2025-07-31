@@ -1,0 +1,38 @@
+/* Estilos generales */
+body {
+    background-color: #00a3a3;
+    font-family: Arial, sans-serif;
+}
+
+/* Título principal */
+#titulo {
+    font-size: 2rem;
+    color: #333;
+}
+
+/* Efecto hover en el footer */
+footer a:hover {
+    color: #3b259b;
+}
+
+/* Botón Agregar personalizado */
+.btn-agregar {
+    background-color: #cbd1cf;   /* Verde menta */
+    color: white;
+    border: none;
+}
+
+.btn-agregar:hover {
+    background-color: #4fbb07;
+}
+
+/* Botón Eliminar personalizado */
+.btn-eliminar {
+    background-color: #2b0283;
+    color: white;
+    border: none;
+}
+
+.btn-eliminar:hover {
+    background-color: #91041b;
+}
